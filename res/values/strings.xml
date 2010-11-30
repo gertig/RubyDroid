@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RubyMain!</string>
+    <string name="app_name">Ruby</string>
+    
+    <string name="name_of_event">Name</string>
+    <string name="budget_of_event">Budget</string>
+    <string name="add_event">Add Event</string>
+    
+</resources>
